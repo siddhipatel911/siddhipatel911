@@ -34,6 +34,10 @@ I'm actively interested in:
 - Java Swing memory card matching game with randomized layout, timer, and flip animations.  
 - Demonstrates event-driven logic, randomization, and GUI design skills.
 
+### [Student Grades](https://github.com/siddhipatel911/StudentGrades) 🧮📊
+- Java Swing application that calculates and displays student and course averages using a resizable 2D array.  
+- Demonstrates add/list options, validation, and GUI event handling.
+
 ### [Team Division Placement](https://github.com/siddhipatel911/Team-Division-Placement) 🏅
 - Python console program that calculates new team divisions based on wins, losses, and ties.
 
