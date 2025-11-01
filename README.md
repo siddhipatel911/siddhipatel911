@@ -37,6 +37,7 @@ I’ll keep adding course projects and personal builds here as I go.
 
 ## 📫 Contact
 Email: siddhi.patel9111@gmail.com 
+
 LinkedIn: www.linkedin.com/in/siddhi-patel-97a626382
 
 Thanks for visiting 🙂
