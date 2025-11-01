@@ -26,10 +26,8 @@ I'm actively interested in:
 A Java Swing penalty shootout game where the player takes 5 shots against an animated goalie.  
 Includes movement animation using `Timer`, score tracking, and a high score system saved to file.
 
-**Highlights:**
-- Multiple custom panels (`Home`, `Game`, `Game Over`, `High Scores`) connected in one main frame
-- Randomized goalie behavior and shot-by-shot scoreboard
-- Persistent high score list stored and searched in `highscores.txt`
+### [Team Division Placement](https://github.com/siddhipatel911/Team-Division-Placement)
+Python console program that calculates new team divisions based on wins, losses, and ties.
 
 ---
 
