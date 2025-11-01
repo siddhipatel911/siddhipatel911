@@ -22,11 +22,11 @@ I'm actively interested in:
 
 ## 🚀 Projects
 
-### [Soccer Penalties Game](https://github.com/siddhipatel911/SoccerPenaltiesGame)
+### [Soccer Penalties Game](https://github.com/siddhipatel911/SoccerPenaltiesGame) ⚽️
 A Java Swing penalty shootout game where the player takes 5 shots against an animated goalie.  
 Includes movement animation using `Timer`, score tracking, and a high score system saved to file.
 
-### [Team Division Placement](https://github.com/siddhipatel911/Team-Division-Placement)
+### [Team Division Placement](https://github.com/siddhipatel911/Team-Division-Placement) 🏅
 Python console program that calculates new team divisions based on wins, losses, and ties.
 
 ---
