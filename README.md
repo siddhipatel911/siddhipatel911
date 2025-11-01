@@ -1,6 +1,7 @@
 # Hi, I'm Siddhi Patel 👋
 
 I'm a first-year Computer Engineering student at the University of Waterloo.  
+
 I like building interactive projects that combine logic, visuals, and user experience — especially games and tools that feel satisfying to use.
 
 I'm actively interested in:
@@ -12,7 +13,9 @@ I'm actively interested in:
 
 ## 🔧 Technical Skills
 **Languages:** Java, Python, Ruby, C++, Processing 
+
 **Core concepts:** object-oriented programming, event-driven programming, GUIs, file I/O, basic data structures  
+
 **Tools:** NetBeans, Replit, Swing, Git/GitHub
 
 ---
