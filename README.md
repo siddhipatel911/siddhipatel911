@@ -2,7 +2,7 @@
 
 I'm a first-year Computer Engineering student at the University of Waterloo.  
 
-I like building interactive projects that combine logic, visuals, and user experience — especially games and tools that feel satisfying to use.
+I like building interactive projects that combine logic, visuals, and user experience, especially games and tools that feel satisfying to use.
 
 I'm actively interested in:
 - Software development
