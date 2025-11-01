@@ -23,15 +23,15 @@ I'm actively interested in:
 ## 🚀 Projects
 
 ### [Soccer Penalties Game](https://github.com/siddhipatel911/SoccerPenaltiesGame) ⚽️
-A Java Swing penalty shootout game where the player takes 5 shots against an animated goalie.  
-Includes movement animation using `Timer`, score tracking, and a high score system saved to file.
+- A Java Swing penalty shootout game where the player takes 5 shots against an animated goalie.  
+- Includes movement animation using `Timer`, score tracking, and a high score system saved to file.
 
 ### [Tic-Tac-Toe (5x5 Java Swing)](https://github.com/siddhipatel911/TicTacToe-5x5)
-Two-player 5x5 Tic-Tac-Toe game with a GUI built in Java Swing.  
-Detects 4-in-a-row in all directions, highlights the winning line in gold, locks the board, and tracks wins/ties across multiple rounds without restarting the program.
+- Two-player 5x5 Tic-Tac-Toe game with a GUI built in Java Swing.  
+- Detects 4-in-a-row in all directions, highlights the winning line in gold, locks the board, and tracks wins/ties across multiple rounds without restarting the program.
 
 ### [Team Division Placement](https://github.com/siddhipatel911/Team-Division-Placement) 🏅
-Python console program that calculates new team divisions based on wins, losses, and ties.
+- Python console program that calculates new team divisions based on wins, losses, and ties.
 
 ---
 
