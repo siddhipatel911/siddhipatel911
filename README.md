@@ -30,7 +30,7 @@ I'm actively interested in:
 - Two-player 5x5 Tic-Tac-Toe game with a GUI built in Java Swing.  
 - Detects 4-in-a-row in all directions, highlights the winning line in gold, locks the board, and tracks wins/ties across multiple rounds without restarting the program.
 
-### [Memory Card Matching Game](https://github.com/siddhipatel911/MemoryCardMatchingGame) 
+### [Memory Card Matching Game](https://github.com/siddhipatel911/MemoryCardMatchingGame) 🧠🎴
 - Java Swing memory card matching game with randomized layout, timer, and flip animations.  
 - Demonstrates event-driven logic, randomization, and GUI design skills.
 
