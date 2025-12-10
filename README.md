@@ -43,6 +43,12 @@ I'm actively interested in:
 ### [Team Division Placement](https://github.com/siddhipatel911/Team-Division-Placement) 🏅
 - Python console program that calculates new team divisions based on wins, losses, and ties.
 
+### [Cognitive Delirium Memory Game (Arduino)](https://github.com/siddhipatel911/Delirium Memory Game) 🧠
+- A cognitive-assessment memory game designed to help screen for delirium symptoms using an embedded system.
+- Built using the Arduino Uno R4, the game generates randomized RGB LED patterns that players must repeat using three input buttons.
+- Includes difficulty levels, non-blocking timing logic, round tracking, and a motor-based reward system for correct sequences.
+- Demonstrates skills in embedded C++, hardware design, user interaction loops, and real-time logic.
+
 ---
 
 _(More projects coming soon)_  
