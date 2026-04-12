@@ -1,64 +1,141 @@
 # Hi, I'm Siddhi Patel 👋
 
-I'm a first-year Computer Engineering student at the University of Waterloo.  
+Computer Engineering student @ University of Waterloo building **interactive software, embedded systems, and AI-powered tools**.
 
-I like building interactive projects that combine logic, visuals, and user experience, especially games and tools that feel satisfying to use.
+I focus on creating projects that are not just functional, but **intuitive, responsive, and meaningful to use** - from GUI applications to hardware-integrated systems.
 
-I'm actively interested in:
-- Software development
-- User-facing applications (desktop / UI)
-- Problem solving with code
-
-**Portfolio site:** [siddhipatel911.github.io](https://siddhipatel911.github.io)
+🌐 **Portfolio:** https://siddhipatel911.github.io  
+📫 **Email:** siddhi.patel9111@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/siddhi-patel-97a626382  
 
 ---
 
-## 🔧 Technical Skills
-**Languages:** Java, Python, Ruby, C++, Processing 
+## 💡 About Me
 
-**Core concepts:** object-oriented programming, event-driven programming, GUIs, file I/O, basic data structures  
+I enjoy taking ideas from concept → implementation → refinement.
 
-**Tools:** NetBeans, Replit, Swing, Git/GitHub
-
----
-
-## 🚀 Projects
-
-### [Soccer Penalties Game](https://github.com/siddhipatel911/SoccerPenaltiesGame) ⚽️
-- A Java Swing penalty shootout game where the player takes 5 shots against an animated goalie.  
-- Includes movement animation using `Timer`, score tracking, and a high score system saved to file.
-
-### [Tic-Tac-Toe Game](https://github.com/siddhipatel911/TicTacToe-5x5) ❌⭕
-- Two-player 5x5 Tic-Tac-Toe game with a GUI built in Java Swing.  
-- Detects 4-in-a-row in all directions, highlights the winning line in gold, locks the board, and tracks wins/ties across multiple rounds without restarting the program.
-
-### [Memory Card Matching Game](https://github.com/siddhipatel911/MemoryCardMatchingGame) 🧠🎴
-- Java Swing memory card matching game with randomized layout, timer, and flip animations.  
-- Demonstrates event-driven logic, randomization, and GUI design skills.
-
-### [Student Grades](https://github.com/siddhipatel911/StudentGrades) 🧮📊
-- Java Swing application that calculates and displays student and course averages using a resizable 2D array.  
-- Demonstrates add/list options, validation, and GUI event handling.
-
-### [Team Division Placement](https://github.com/siddhipatel911/Team-Division-Placement) 🏅
-- Python console program that calculates new team divisions based on wins, losses, and ties.
-
-### [Cognitive Delirium Memory Game](https://github.com/siddhipatel911/Delirium-Memory-Game) 🧠
-- A cognitive-assessment memory game designed to help screen for delirium symptoms using an embedded system.
-- Built using the Arduino Uno R4, the game generates randomized RGB LED patterns that players must repeat using three input buttons.
-- Includes difficulty levels, non-blocking timing logic, round tracking, and a motor-based reward system for correct sequences.
-- Demonstrates skills in embedded C++, hardware design, user interaction loops, and real-time logic.
+My projects reflect:
+- Strong **logic and problem-solving**
+- Clean and structured **code design**
+- Focus on **user interaction and experience**
+- Ability to **learn and apply new technologies quickly**
 
 ---
 
-_(More projects coming soon)_  
-I’ll keep adding course projects and personal builds here as I go.
+## 🚀 What I’m Focused On
+
+- Building **interactive, user-facing applications**
+- Developing **embedded systems with real-world use cases**
+- Exploring **AI tools, APIs, and data-driven systems**
+- Learning **PCB design and hardware integration**
 
 ---
 
-## 📫 Contact
-Email: siddhi.patel9111@gmail.com 
+## 🧠 Technical Skills
 
-LinkedIn: www.linkedin.com/in/siddhi-patel-97a626382
+**Languages:**  
+Java • Python • C++ • JavaScript • SQL  
 
-Thanks for visiting 🙂
+**Software & Tools:**  
+React • Next.js • Git/GitHub • Docker • NetBeans • VS Code  
+
+**Backend & Data:**  
+APIs • SQL • Data Pipelines • Web Scraping • Cloud (GCP)  
+
+**AI & Systems:**  
+Embeddings • Vector Databases • Prompt Engineering • MCP Servers  
+
+**Hardware & Embedded:**  
+Arduino • ESP32 • Sensors • Motors • PCB Design (KiCad, Altium)  
+
+---
+
+## 🛠️ Featured Projects
+
+### 🧠 Cognitive Delirium Memory Game
+**Arduino / C++ • Embedded Systems**
+
+- Simon-Says style memory game designed for **cognitive assessment**
+- Uses **RGB LEDs, button inputs, and motor feedback**
+- Implements **non-blocking timing (millis)** and difficulty scaling
+- Demonstrates **real-time logic + hardware interaction**
+
+🔗 https://github.com/siddhipatel911/Delirium-Memory-Game  
+
+---
+
+### ⚽ Soccer Penalties Game
+**Java / Swing**
+
+- Interactive penalty shootout game with **animated goalie**
+- Uses **event-driven programming + Timer-based animation**
+- Tracks scores and stores results using **file I/O**
+
+🔗 https://github.com/siddhipatel911/SoccerPenaltiesGame  
+
+---
+
+### ❌ Tic-Tac-Toe (5x5)
+**Java / Swing**
+
+- Custom 5x5 board with **4-in-a-row win detection**
+- Uses **2D arrays + event handling**
+- Includes **persistent score tracking across rounds**
+
+🔗 https://github.com/siddhipatel911/TicTacToe-5x5  
+
+---
+
+### 🧠 Memory Card Matching Game
+**Java / Swing**
+
+- Card matching game with **randomized layouts**
+- Implements **timers + delayed flip-back logic**
+- Focus on **UI/UX and gameplay responsiveness**
+
+🔗 https://github.com/siddhipatel911/MemoryCardMatchingGame  
+
+---
+
+### 🧮 Student Grades System
+**Java / Swing**
+
+- GUI-based grade manager using **dynamic 2D arrays**
+- Supports **data entry, listing, and average calculations**
+- Demonstrates **input validation + structured data handling**
+
+🔗 https://github.com/siddhipatel911/StudentGrades  
+
+---
+
+### 🏅 Team Division Placement
+**Python**
+
+- Rule-based system to assign teams based on performance
+- Includes **input validation + logic-driven classification**
+
+🔗 https://github.com/siddhipatel911/Team-Division-Placement  
+
+---
+
+### 🧊 Rubik’s Cube Solver
+**Python / OpenGL / Robotics**
+
+- Interactive 3D cube with **manual input + animation**
+- Uses **Kociemba algorithm for solving**
+- Integrates with **LEGO Mindstorms NXT via Bluetooth**
+
+🔗 https://github.com/siddhipatel911/cube-solver  
+
+---
+
+## ⚡ Currently Building
+
+- 📡 **Smart Motion Detector (ESP32)** — real-time alerts + security system  
+- 🔌 **Custom PCB Designs** — redesigning embedded systems hardware  
+- 🌐 **Full-Stack Portfolio (Next.js + React)** — interactive UI + project showcase  
+- 🤖 Exploring **AI-powered tools and automation systems**
+
+---
+
+⭐ *More projects and systems coming soon as I continue building.*
