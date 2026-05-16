@@ -132,7 +132,8 @@ Arduino • ESP32 • Sensors • Motors • PCB Design (KiCad, Altium)
 ## ⚡ Currently Building
 
 - 📡 **Smart Motion Detector (ESP32)** — real-time alerts + security system  
-- 🔌 **Custom PCB Designs** — redesigning embedded systems hardware  
+- 🔌 **Custom PCB Designs** — redesigning embedded systems hardware
+      --> 🔗 https://github.com/siddhipatel911/memory-game-pcb
 - 🌐 **Full-Stack Portfolio (Next.js + React)** — interactive UI + project showcase  
 - 🤖 Exploring **AI-powered tools and automation systems**
 
