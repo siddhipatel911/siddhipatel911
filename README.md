@@ -129,6 +129,18 @@ Arduino • ESP32 • Sensors • Motors • PCB Design (KiCad, Altium)
 
 ---
 
+### 🤖 Collaborative Robotic Arm 
+**Python / OpenCV / MediaPipe / Flask / Dobot Magician**
+
+- Camera-guided collaborative robot demo that turns a Dobot Magician robotic arm into a human-aware pick-and-place partner for a shared workspace.
+- Built an overhead-camera perception pipeline using OpenCV, ArUco calibration, and homography mapping to convert image coordinates into robot movement coordinates.
+- Implemented MediaPipe-based hand safety detection so the robot pauses when a human hand enters the active work zone.
+- Designed configurable JSON drop zones, live OpenCV status overlays, Flask UI preview, and test scripts for camera, picking, robot movement, and safety validation.
+
+🔗 https://github.com/siddhipatel911/Collaborative_Robot
+
+---
+
 ## ⚡ Currently Building
 
 - 📡 **Smart Motion Detector (ESP32)** — real-time alerts + security system  
